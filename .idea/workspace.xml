@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20c8333e-a47a-490d-8a0c-e8df4ed59b4b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README" beforeDir="false" afterPath="$PROJECT_DIR$/README" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +54,7 @@
       <option name="presentableId" value="Default" />
       <updated>1596830929356</updated>
       <workItem from="1596830930505" duration="469000" />
-      <workItem from="1596831673807" duration="227000" />
+      <workItem from="1596831673807" duration="867000" />
     </task>
     <task id="LOCAL-00001" summary="commit 1">
       <created>1596831729660</created>
@@ -69,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1596831803845</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit 3">
+      <created>1596831907627</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1596831907627</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,20 +97,21 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit 1" />
     <MESSAGE value="commit 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
+    <MESSAGE value="commit 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="325" y="184" width="706" height="434" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1596830997468">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="325" y="184" width="706" height="434" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1596830997468" />
-    <state x="130" y="27" width="1096" height="741" key="CommitChangelistDialog2" timestamp="1596831803689">
+    <state x="130" y="27" width="1096" height="741" key="CommitChangelistDialog2" timestamp="1596831907310">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="130" y="27" width="1096" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1596831803689" />
-    <state x="178" y="70" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1596831844567">
+    <state x="130" y="27" width="1096" height="741" key="CommitChangelistDialog2/0.27.1366.741@0.27.1366.741" timestamp="1596831907310" />
+    <state x="178" y="70" width="1000" height="661" key="Vcs.Push.Dialog.v2" timestamp="1596831914851">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="178" y="70" width="1000" height="661" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1596831844567" />
+    <state x="178" y="70" width="1000" height="661" key="Vcs.Push.Dialog.v2/0.27.1366.741@0.27.1366.741" timestamp="1596831914851" />
   </component>
 </project>
